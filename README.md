@@ -13,7 +13,7 @@ To Run:
 Install Rust first 
 
 ```bash
-git clone https://github.com/<your-username>/ghostlink.git
+git clone https://github.com/shreyas-sridhar/HAM-Chat.git
 cd ghostlink
 ```
 
