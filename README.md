@@ -37,6 +37,6 @@ cargo run
 ```
 
 Type a message in one terminal to see it appear in the other.
-No internet connection is required.
+No internet connection is required. But for now your system(s) needs to be connected to the same WIFI 
 
 ---
